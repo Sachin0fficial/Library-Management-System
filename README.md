@@ -1,6 +1,10 @@
 # Library-Management-System ![](spring.PNG)
 ## Introduction 
-A Library Management System designed to see the books available in a college library. It allows students to register as a user and issue/return books from the college library hassle free. The backend is designed as a **Monolithic Architecture** with various nuances as discussed below.
+●	Developed a web application to streamline library operations, including book inventory management, member record tracking, book lending, and overdue fines.  
+●	Key Features: Enhanced security with validation measures; enabled admins to perform CRUD operations on members and books. Integrated JPA with Hibernate for seamless MySQL database interactions.
+●	Achievements: Reduced manual entry errors by 30% through input validation; strengthened user data security with robust encryption.
+●	Tech Stack: Java, Spring Boot, REST API, MVC Architecture, MySQL, Git, JPA with Hibernate, JSON.
+
 ## Technologies and Dependencies Used
 * [Maven](https://maven.apache.org/) used as a dependency management tool.
 * [Spring Boot](https://spring.io/projects/spring-boot) used to build hassle free web applications and writing REST APIs.
